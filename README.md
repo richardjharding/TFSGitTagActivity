@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/ar1nnc4aqbkdn1ud)](https://ci.appveyor.com/project/gaspode44/tfsgittagactivity)
+
 TFSGitTagActivity
 =================
 
